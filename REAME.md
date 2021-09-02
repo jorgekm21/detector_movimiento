@@ -1,0 +1,1 @@
+Detector de movimiento basado en Python y OpenCV para adicionar a camaras de control de circuito cerrado
